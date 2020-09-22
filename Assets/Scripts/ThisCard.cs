@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystem;
+using UnityEngine.UI;
 
 public class ThisCard : MonoBehaviour
 {
@@ -22,12 +22,23 @@ public class ThisCard : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        thisCard[0] = CardDatabase.cardList(thisId);
+        thisCard[0] = CardDatabase.cardList[thisId];
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log(thisCard.Capacity);
+        id = thisCard[0].id;
+        cardName=thisCard[0].cardName;
+        cost=thisCard[0].cost;
+        power=thisCard[0].power;
+        cardDescription=thisCard[0].cardDescription;
+
+        nameText.text = ""+cardName;
+        costText.text = ""+cost;
+        powerText.text = ""+power;
+        descriptionText.text = ""+cardDescription;
+
     }
 }

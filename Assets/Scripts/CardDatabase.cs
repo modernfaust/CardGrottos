@@ -10,10 +10,10 @@ public class CardDatabase : MonoBehaviour
     void Awake()
     {
         cardList.Add (new Card (0,"Lul",2,50,"i like peg"));
-        cardList.Add (new Card (0,"HAHA",1,100,"no u"));
-        cardList.Add (new Card (0,"XD",5,60,"here and there"));
-        cardList.Add (new Card (0,"Human",10,120,"no longer human"));
-        cardList.Add (new Card (0,"Fag",15,500,"likes twinks"));
+        cardList.Add (new Card (1,"HAHA",1,100,"no u"));
+        cardList.Add (new Card (2,"XD",5,60,"here and there"));
+        cardList.Add (new Card (3,"Human",10,120,"no longer human"));
+        cardList.Add (new Card (4,"Fag",15,500,"likes twinks"));
     }
 
 
