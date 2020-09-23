@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 //[CreateAssetMenu(fileName = "New Card", menuName = "Cards", order = 21)]
 [System.Serializable]
 
-public class Card : MonoBehaviour
+public class Card
 {
 /*     public new string name;
     public string description;
@@ -30,13 +31,13 @@ public class Card : MonoBehaviour
         //constructor
     }
 
-    public Card(int id, string cardName, int cost, int power, string cardDescription)
+    public Card(int Id, string CardName, int Cost, int Power, string CardDescription)
     {
-        id=id;
-        cardName=cardName;
-        cost=cost;
-        power=power;
-        cardDescription=cardDescription;
+        id=Id;
+        cardName=CardName;
+        cost=Cost;
+        power=Power;
+        cardDescription=CardDescription;
     }
 
 }

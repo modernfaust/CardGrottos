@@ -10,13 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8240dc94aeca9bd42ad965cac0c0c9d2, type: 3}
-  m_Name: New Card
+  m_Name: Cleave
   m_EditorClassIdentifier: 
-  name: 
-  description: 
-  cardType: 
-  artwork: {fileID: 0}
-  playCost: 0
-  attackDamage: 0
-  blockAmount: 0
-  healAmount: 0
+  id: 0
+  cardName: 
+  cost: 0
+  power: 0
+  cardDescription: 

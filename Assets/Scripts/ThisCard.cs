@@ -5,12 +5,14 @@ using UnityEngine.UI;
 
 public class ThisCard : MonoBehaviour
 {
+    //set thisCard to 1 in editor
     public List<Card> thisCard = new List<Card>();
     public int thisId;
     public int id;
     public string cardName;
     public int cost;
     public int power;
+
     public string cardDescription;
 
     public Text nameText;
@@ -28,17 +30,15 @@ public class ThisCard : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(thisCard.Capacity);
         id = thisCard[0].id;
         cardName=thisCard[0].cardName;
         cost=thisCard[0].cost;
         power=thisCard[0].power;
         cardDescription=thisCard[0].cardDescription;
-
+        //Debug.Log(nameText);
         nameText.text = ""+cardName;
         costText.text = ""+cost;
         powerText.text = ""+power;
         descriptionText.text = ""+cardDescription;
-
     }
 }
