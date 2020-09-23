@@ -26,18 +26,21 @@ public class Card
     public int power;
     public string cardDescription;
 
+    public Sprite thisImage;
+
     public Card()
     {
         //constructor
     }
 
-    public Card(int Id, string CardName, int Cost, int Power, string CardDescription)
+    public Card(int Id, string CardName, int Cost, int Power, string CardDescription, Sprite ThisImage)
     {
         id=Id;
         cardName=CardName;
         cost=Cost;
         power=Power;
         cardDescription=CardDescription;
+        thisImage=ThisImage;
     }
 
 }
