@@ -22,6 +22,9 @@ public class ThisCard : MonoBehaviour
 
     public Sprite thisSprite;
     public Image thatImage;
+    public Image frame;
+    public bool cardBack;
+    public static bool staticCardBack;
 
 
     // Start is called before the first frame update
@@ -46,7 +49,12 @@ public class ThisCard : MonoBehaviour
         costText.text = ""+cost;
         powerText.text = ""+power;
         descriptionText.text = ""+cardDescription;
-
         thatImage.sprite = thisSprite;
+        //replace this with SOURCE IMAGES
+        if(thisCard[0].color=="Red")
+        {
+            frame.GetComponent<Image>().color = new Color32(255,0,0,255);
+        }
+        staticCardBack = cardBack;
     }
 }
