@@ -12,9 +12,8 @@ public class ThisCard : MonoBehaviour
     public string cardName;
     public int cost;
     public int power;
-
+    public string cardType;
     public string cardDescription;
-
     public Text nameText;
     public Text costText;
     public Text powerText;
@@ -40,11 +39,9 @@ public class ThisCard : MonoBehaviour
         cardName=thisCard[0].cardName;
         cost=thisCard[0].cost;
         power=thisCard[0].power;
+        cardType=thisCard[0].cardType;
         cardDescription=thisCard[0].cardDescription;
-
         thisSprite = thisCard[0].thisImage;
-
-
         nameText.text = ""+cardName;
         costText.text = ""+cost;
         powerText.text = ""+power;

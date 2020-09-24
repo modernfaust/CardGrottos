@@ -9,9 +9,9 @@ public class CardDatabase : MonoBehaviour
 
     void Awake()
     {
-        cardList.Add (new Card (0,"Cleave",1,25,"Take a swipe at the enemy", Resources.Load<Sprite>("god"), "Red"));
-        cardList.Add (new Card (1,"Fortify",2,25,"Wear some armor", Resources.Load<Sprite>("god"), "Blue"));
-        cardList.Add (new Card (2,"Heal",2,25,"Down a potion", Resources.Load<Sprite>("god"), "Green"));
+        cardList.Add (new Card (0,"Cleave",1,25,"Take a swipe at the enemy", "Attack", Resources.Load<Sprite>("god"), "Red"));
+        cardList.Add (new Card (1,"Fortify",2,25,"Wear some armor","Block", Resources.Load<Sprite>("god"), "Blue"));
+        cardList.Add (new Card (2,"Potion",2,25,"Down a potion","Heal", Resources.Load<Sprite>("god"), "Green"));
     }
 
 

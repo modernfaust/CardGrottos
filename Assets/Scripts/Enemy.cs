@@ -19,7 +19,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        showHealth.text=""+health;
-        showArmor.text=""+armor;
+        showHealth.text="Health: "+health;
+        showArmor.text="Armor: "+armor;
     }
 }

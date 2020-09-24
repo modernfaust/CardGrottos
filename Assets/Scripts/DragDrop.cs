@@ -50,8 +50,24 @@ public class DragDrop : MonoBehaviour
         {
             transform.SetParent(dropZone.transform, false);
             Debug.Log("this happened");
-            //Debug.Log(GameObject.Find("Player").GetComponent<PlayerHand>().hand);
-            Debug.Log(this.GetComponent<ThisCard>().power);
+            
+            switch (this.GetComponent<ThisCard>().cardType)
+            {
+                case "Attack":
+                    Debug.Log("attack happened");
+                    GameObject.Find("Player").GetComponent<Player>().Attack(this.GetComponent<ThisCard>().power);
+                    break;
+                case "Block":
+                    Debug.Log("defend happened");
+                    GameObject.Find("Player").GetComponent<Player>().Block(this.GetComponent<ThisCard>().power);
+                    break;
+                case "Heal":
+                    Debug.Log("heal happened");
+                    GameObject.Find("Player").GetComponent<Player>().Heal(this.GetComponent<ThisCard>().power);
+                    break;
+            }
+            //this.GetComponent<PlayerHand>().cards_inHand-=1;
+
         }
         else
         {
