@@ -55,6 +55,14 @@ public class ThisCard : MonoBehaviour
         {
             frame.GetComponent<Image>().color = new Color32(255,0,0,255);
         }
+        else if(thisCard[0].color=="Blue")
+        {
+            frame.GetComponent<Image>().color = new Color32(0,0,255,255);
+        }
+        else if(thisCard[0].color=="Green")
+        {
+            frame.GetComponent<Image>().color = new Color32(0,255,0,255);
+        }
         staticCardBack = cardBack;
     }
 }

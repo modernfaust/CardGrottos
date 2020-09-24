@@ -16,7 +16,7 @@ public class PlayerDeck : MonoBehaviour
         x=0;
         for (int i=0;i<deckSize;i++)
         {
-            x= Random.Range(1,5);
+            x= Random.Range(1,3);
             deck[i] = CardDatabase.cardList[x];
         }
     }

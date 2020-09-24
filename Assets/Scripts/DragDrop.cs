@@ -50,6 +50,8 @@ public class DragDrop : MonoBehaviour
         {
             transform.SetParent(dropZone.transform, false);
             Debug.Log("this happened");
+            //Debug.Log(GameObject.Find("Player").GetComponent<PlayerHand>().hand);
+            Debug.Log(this.GetComponent<ThisCard>().power);
         }
         else
         {

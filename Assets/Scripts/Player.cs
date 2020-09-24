@@ -1,12 +1,17 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class CardBack : MonoBehaviour
+
+public class Player : MonoBehaviour
 {
-    public GameObject cardBack;
-
+    public int health;
+    public int armor;
+    public Text showHealth;
+    public Text showArmor;
     // Start is called before the first frame update
+
     void Start()
     {
         
@@ -15,12 +20,7 @@ public class CardBack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (ThisCard.staticCardBack)
-        {
-            cardBack.SetActive(true);
-        } else 
-        {
-            cardBack.SetActive(false);             
-        }
+        showHealth.text=""+health;
+        showArmor.text=""+armor;
     }
 }
