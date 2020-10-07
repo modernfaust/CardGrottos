@@ -6,7 +6,7 @@ using UnityEngine.UI;
 //[CreateAssetMenu(fileName = "New Card", menuName = "Cards", order = 21)]
 [System.Serializable]
 
-public class Card
+public class Card : MonoBehaviour
 {
 /*     public new string name;
     public string description;
