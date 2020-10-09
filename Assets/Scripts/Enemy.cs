@@ -8,8 +8,11 @@ public class Enemy : MonoBehaviour
 {
     public int health;
     public int armor;
+    public int stamina;
     public Text showHealth;
     public Text showArmor;
+    public Text showStamina;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,5 +24,6 @@ public class Enemy : MonoBehaviour
     {
         showHealth.text="Health: "+health;
         showArmor.text="Armor: "+armor;
+        showStamina.text="Stamina: "+stamina;
     }
 }

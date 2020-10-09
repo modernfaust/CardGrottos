@@ -410,6 +410,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -417,6 +418,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -424,6 +426,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -431,6 +434,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -438,6 +442,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -445,6 +450,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -452,6 +458,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -459,6 +466,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -466,6 +474,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -473,6 +482,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -480,6 +490,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -487,6 +498,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -494,6 +506,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -501,6 +514,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -508,6 +522,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -515,6 +530,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -522,6 +538,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -529,6 +546,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -536,6 +554,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -543,6 +562,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -550,6 +570,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -557,6 +578,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -564,6 +586,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -571,6 +594,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -578,6 +602,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -585,6 +610,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -592,6 +618,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -599,6 +626,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -606,6 +634,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -613,6 +642,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -620,6 +650,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -627,6 +658,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -634,6 +666,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -641,6 +674,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -648,6 +682,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -655,6 +690,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -662,6 +698,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -669,6 +706,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -676,6 +714,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -683,6 +722,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   container:
@@ -691,6 +731,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   deckSize: 40
@@ -956,6 +997,85 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828332378}
   m_CullTransparentMesh: 0
+--- !u!1 &893845747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 893845748}
+  - component: {fileID: 893845750}
+  - component: {fileID: 893845749}
+  m_Layer: 5
+  m_Name: Stamina
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &893845748
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 893845747}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 330.05173}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1635457223}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1303, y: -421.5}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &893845749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 893845747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 0
+--- !u!222 &893845750
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 893845747}
+  m_CullTransparentMesh: 0
 --- !u!1 &961137122 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3391112704884626012, guid: 128022809d6fc3b47a35f29f439ffc58,
@@ -968,6 +1088,85 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1258619613888942924}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1003064975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1003064976}
+  - component: {fileID: 1003064978}
+  - component: {fileID: 1003064977}
+  m_Layer: 5
+  m_Name: Stamina
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1003064976
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003064975}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1176890771}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -504, y: 273}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1003064977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003064975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 0
+--- !u!222 &1003064978
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003064975}
+  m_CullTransparentMesh: 0
 --- !u!1001 &1046021318
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1067,6 +1266,7 @@ Transform:
   m_Children:
   - {fileID: 828332379}
   - {fileID: 362701105}
+  - {fileID: 1003064976}
   m_Father: {fileID: 1345488028}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1084,8 +1284,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   armor: 50
+  stamina: 10
   showHealth: {fileID: 828332380}
   showArmor: {fileID: 362701106}
+  showStamina: {fileID: 1003064977}
 --- !u!850595691 &1271094153
 LightingSettings:
   m_ObjectHideFlags: 0
@@ -1403,6 +1605,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1410,6 +1613,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1417,6 +1621,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1424,6 +1629,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1431,6 +1637,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1438,6 +1645,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1445,6 +1653,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1452,6 +1661,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1459,6 +1669,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1466,6 +1677,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1473,6 +1685,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1480,6 +1693,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1487,6 +1701,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1494,6 +1709,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1501,6 +1717,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1508,6 +1725,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1515,6 +1733,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1522,6 +1741,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1529,6 +1749,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1536,6 +1757,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1543,6 +1765,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1550,6 +1773,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1557,6 +1781,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1564,6 +1789,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1571,6 +1797,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1578,6 +1805,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1585,6 +1813,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1592,6 +1821,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1599,6 +1829,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1606,6 +1837,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1613,6 +1845,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1620,6 +1853,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1627,6 +1861,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1634,6 +1869,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1641,6 +1877,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1648,6 +1885,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1655,6 +1893,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1662,6 +1901,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1669,6 +1909,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   - id: 0
@@ -1676,6 +1917,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   container:
@@ -1684,6 +1926,7 @@ MonoBehaviour:
     cost: 0
     power: 0
     cardDescription: 
+    cardType: 
     thisImage: {fileID: 0}
     color: 
   deckSize: 40
@@ -1852,8 +2095,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   armor: 50
+  stamina: 10
   showHealth: {fileID: 1317839829}
   showArmor: {fileID: 1808805159}
+  showStamina: {fileID: 893845749}
 --- !u!224 &1635457223
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1867,6 +2112,7 @@ RectTransform:
   m_Children:
   - {fileID: 1317839831}
   - {fileID: 1808805161}
+  - {fileID: 893845748}
   m_Father: {fileID: 1345488028}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

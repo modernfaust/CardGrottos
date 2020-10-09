@@ -8,8 +8,10 @@ public class Player : MonoBehaviour
 {
     public int health;
     public int armor;
+    public int stamina;
     public Text showHealth;
     public Text showArmor;
+    public Text showStamina;
     // Start is called before the first frame update
 
     void Start()
@@ -22,6 +24,7 @@ public class Player : MonoBehaviour
     {
         showHealth.text="Healh: "+health;
         showArmor.text="Armor: "+armor;
+        showStamina.text="Stamina: "+stamina;
     }
 
     public void Attack(int power)
