@@ -5,7 +5,7 @@ using UnityEngine;
 public class DrawCards : MonoBehaviour
 {
     public GameObject Card1;
-    public GameObject Card2;
+    //public GameObject Card2;
     public GameObject PlayerArea;
     public GameObject EnemyArea;
 
@@ -14,7 +14,7 @@ public class DrawCards : MonoBehaviour
     void Start()
     {
         cards.Add(Card1);
-        cards.Add(Card2);
+        //cards.Add(Card2);
     }
 
     public void OnClick()

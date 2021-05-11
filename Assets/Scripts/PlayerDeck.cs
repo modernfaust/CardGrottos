@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +8,8 @@ public class PlayerDeck : MonoBehaviour
 {
     public List<Card> deck = new List<Card>();
     public List<Card> container = new List<Card>();
+    //public GameObject PlayerDeckZone;
+    //public GameObject CardBack;
     public int deckSize = 40;
     public int x;
     // Start is called before the first frame update
@@ -19,6 +21,7 @@ public class PlayerDeck : MonoBehaviour
             x= Random.Range(1,3);
             deck[i] = CardDatabase.cardList[x];
         }
+        //CardBack.transform.SetParent(PlayerDeckZone.transform, false);
     }
 
     // Update is called once per frame
@@ -37,5 +40,6 @@ public class PlayerDeck : MonoBehaviour
             deck[i] = deck[randomIndex];
             deck[randomIndex] = container[0];
         }
+
     }
 }

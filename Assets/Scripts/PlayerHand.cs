@@ -27,7 +27,9 @@ public class PlayerHand : MonoBehaviour
             {
                 hand.Add(Instantiate(gameCard) as GameObject);
                 hand[i].GetComponent<ThisCard>().thisId = Random.Range(0, 3);
+                //only two types of cards currently. expand Range to include sum of cards
                 hand[i].transform.SetParent(PlayerArea.transform, false);
+                
             }
         }
     }
