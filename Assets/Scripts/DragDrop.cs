@@ -5,15 +5,32 @@ using UnityEngine;
 public class DragDrop : MonoBehaviour
 {
     public GameObject Canvas;
+    public List<Object> dropZones; //size determined in editor
     private bool isDragging = false;
     private bool isOverDropZone = false;
     private GameObject dropZone;
     private GameObject startParent;
     private Vector2 startPosition;
 
+
     private void Awake()
     {
         Canvas = GameObject.Find("Main Canvas");
+        dropZones.Add(GameObject.Find("A1")); 
+        dropZones.Add(GameObject.Find("A2")); 
+        dropZones.Add(GameObject.Find("A3")); 
+        dropZones.Add(GameObject.Find("B1")); 
+        dropZones.Add(GameObject.Find("B2")); 
+        dropZones.Add(GameObject.Find("B3")); 
+        dropZones.Add(GameObject.Find("C1")); 
+        dropZones.Add(GameObject.Find("C2")); 
+        dropZones.Add(GameObject.Find("C3")); 
+        dropZones.Add(GameObject.Find("D1")); 
+        dropZones.Add(GameObject.Find("D2")); 
+        dropZones.Add(GameObject.Find("D3")); 
+        dropZones.Add(GameObject.Find("E1")); 
+        dropZones.Add(GameObject.Find("E2")); 
+        dropZones.Add(GameObject.Find("E3")); 
     }
     void Update()
     {
@@ -49,7 +66,9 @@ public class DragDrop : MonoBehaviour
         if (isOverDropZone)
         {
             transform.SetParent(dropZone.transform, false);
-            Debug.Log("this happened");
+            //Debug.Log("this happened");
+            //Debug.Log(dropZone.name);
+            //ThisCard should be passed to a GameLogic handler
             
             switch (this.GetComponent<ThisCard>().cardType)
             {
@@ -67,7 +86,6 @@ public class DragDrop : MonoBehaviour
                     break;
             }
             //this.GetComponent<PlayerHand>().cards_inHand-=1;
-
         }
         else
         {
