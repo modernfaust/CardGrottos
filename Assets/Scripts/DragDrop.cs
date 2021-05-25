@@ -11,6 +11,7 @@ public class DragDrop : MonoBehaviour
     private GameObject dropZone;
     private GameObject startParent;
     private Vector2 startPosition;
+    private List<bool> occupiedZone;
 
 
     private void Awake()
@@ -31,6 +32,7 @@ public class DragDrop : MonoBehaviour
         dropZones.Add(GameObject.Find("E1")); 
         dropZones.Add(GameObject.Find("E2")); 
         dropZones.Add(GameObject.Find("E3")); 
+        //need to distinguish non-drop zones, occupied drop zones
     }
     void Update()
     {
@@ -66,10 +68,15 @@ public class DragDrop : MonoBehaviour
         if (isOverDropZone)
         {
             transform.SetParent(dropZone.transform, false);
+
+
+
             //Debug.Log("this happened");
             //Debug.Log(dropZone.name);
             //ThisCard should be passed to a GameLogic handler
             
+
+
             switch (this.GetComponent<ThisCard>().cardType)
             {
                 case "Attack":
