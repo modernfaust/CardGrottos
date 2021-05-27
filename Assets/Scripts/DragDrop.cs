@@ -47,6 +47,7 @@ public class DragDrop : MonoBehaviour
     {
         isOverDropZone = true;
         dropZone = collision.gameObject;
+        Debug.Log(collision.gameObject.tag);
     }
 
     private void OnCollisionExit2D(Collision2D collision)
