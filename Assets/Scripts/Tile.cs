@@ -5,5 +5,5 @@ using UnityEngine;
 public class Tile : MonoBehaviour
 {
     public string allegiance; 
-
+    //must be string because enemy/player/neutral
 }

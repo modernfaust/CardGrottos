@@ -70,14 +70,10 @@ public class DragDrop : MonoBehaviour
         {
             transform.SetParent(dropZone.transform, false);
 
-
-
             //Debug.Log("this happened");
             //Debug.Log(dropZone.name);
             //ThisCard should be passed to a GameLogic handler
             
-
-
             switch (this.GetComponent<ThisCard>().cardType)
             {
                 case "Attack":
